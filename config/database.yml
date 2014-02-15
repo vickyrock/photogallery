@@ -35,8 +35,8 @@ production:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: photogallery_production
+  database: avmmblogphotogallery
   pool: 5
-  username: root
-  password: password
+  username: adminfc3MTk3
+  password:  d17yXkDLcK7E
   socket: /var/run/mysqld/mysqld.sock
