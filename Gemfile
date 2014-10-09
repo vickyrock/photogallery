@@ -10,7 +10,6 @@ gem 'therubyracer'
 gem 'haml'
 gem "haml-rails"
 gem "devise", '3.2.1' 
-gem 'rhc'
 
 
 # Gems used only for assets and not required
